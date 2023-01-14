@@ -1,2 +1,2 @@
 # odin-recipes
-odin project one
+brief introduction on the recipe project after i finish it ggez 
