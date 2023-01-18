@@ -1,0 +1,51 @@
+*{
+    font: "Monaco","Times New Roman", times, serif;
+}
+h1,
+h3,
+.description,
+.link,
+.disclaimer {
+    text-align: center;
+}
+
+h1,
+h3,
+.link {
+    font-weight: bold;
+}
+
+li{
+   
+    font-size: 18px;
+    text-align: left;
+}
+
+h3{
+    font-size: 24px;
+}
+
+.description {
+    font-size: 20px;
+
+}
+h1 {
+    font-size: 32px;
+}
+
+img {
+    display:  block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.link{
+    display: block;
+    font-size: 28px;
+}
+
+.disclaimer {
+    font-size: 18px;
+    color:red;
+}
